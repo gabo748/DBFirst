@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "DefaultConnection": "Server=qa.negociostecnologicos.net;Port=3306;Database=CodeFirstGC;User=desarrolloWebUfg;Password=<BTj$jrrLV2~-4Yp1vT-;Charset=utf8;SslMode=Preferred;ConnectionTimeout=30;"
+  }
+}
